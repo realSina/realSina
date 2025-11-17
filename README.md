@@ -9,7 +9,7 @@ I'm a **Backend Developer** with a passion for PHP and Python. I started coding 
 ## GitHub Stats:
 ![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realSina&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 🌍 Find me on:
+## Find me on:
 - [Telegram](https://t.me/ItsNull)
 - [Instagram](https://instagram.com/sinasyre)
 
