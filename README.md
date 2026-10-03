@@ -3,7 +3,7 @@
 I'm a **Backend Developer** with a passion for PHP and Python. I started coding in 2015 with C++, and since then, I've been building scalable and efficient backend systems.
 
 ## Technologies:
-- **Languages**: C++, PHP, HTML5, Python
+- **Languages**: C++, PHP, HTML5, CSS, Javascript, Python
 - **Databases**: MySQL
 
 ## Find me on:
